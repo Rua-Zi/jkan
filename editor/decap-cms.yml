@@ -3,6 +3,7 @@
 
 backend:
   name: github
+  base_url: https://jkan-kq7u-git-main-rua-zi.vercel.app/
 
 media_folder: "img/uploads"
 
